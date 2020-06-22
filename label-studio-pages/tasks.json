@@ -1,0 +1,359 @@
+{
+  "1": {
+    "id": 1,
+    "task_path": "/home/jakobg/Desktop/pdf_parsing/data/pages/out_20.png",
+    "data": {
+      "image": "/data/out_20.png?d=%2Fhome%2Fjakobg%2FDesktop%2Fpdf_parsing%2Fdata%2Fpages"
+    }
+  },
+  "2": {
+    "id": 2,
+    "task_path": "/home/jakobg/Desktop/pdf_parsing/data/pages/out_12.png",
+    "data": {
+      "image": "/data/out_12.png?d=%2Fhome%2Fjakobg%2FDesktop%2Fpdf_parsing%2Fdata%2Fpages"
+    }
+  },
+  "3": {
+    "id": 3,
+    "task_path": "/home/jakobg/Desktop/pdf_parsing/data/pages/out_27.png",
+    "data": {
+      "image": "/data/out_27.png?d=%2Fhome%2Fjakobg%2FDesktop%2Fpdf_parsing%2Fdata%2Fpages"
+    }
+  },
+  "4": {
+    "id": 4,
+    "task_path": "/home/jakobg/Desktop/pdf_parsing/data/pages/out_3.png",
+    "data": {
+      "image": "/data/out_3.png?d=%2Fhome%2Fjakobg%2FDesktop%2Fpdf_parsing%2Fdata%2Fpages"
+    }
+  },
+  "5": {
+    "id": 5,
+    "task_path": "/home/jakobg/Desktop/pdf_parsing/data/pages/out_48.png",
+    "data": {
+      "image": "/data/out_48.png?d=%2Fhome%2Fjakobg%2FDesktop%2Fpdf_parsing%2Fdata%2Fpages"
+    }
+  },
+  "6": {
+    "id": 6,
+    "task_path": "/home/jakobg/Desktop/pdf_parsing/data/pages/out_5.png",
+    "data": {
+      "image": "/data/out_5.png?d=%2Fhome%2Fjakobg%2FDesktop%2Fpdf_parsing%2Fdata%2Fpages"
+    }
+  },
+  "7": {
+    "id": 7,
+    "task_path": "/home/jakobg/Desktop/pdf_parsing/data/pages/out_11.png",
+    "data": {
+      "image": "/data/out_11.png?d=%2Fhome%2Fjakobg%2FDesktop%2Fpdf_parsing%2Fdata%2Fpages"
+    }
+  },
+  "8": {
+    "id": 8,
+    "task_path": "/home/jakobg/Desktop/pdf_parsing/data/pages/out_50.png",
+    "data": {
+      "image": "/data/out_50.png?d=%2Fhome%2Fjakobg%2FDesktop%2Fpdf_parsing%2Fdata%2Fpages"
+    }
+  },
+  "9": {
+    "id": 9,
+    "task_path": "/home/jakobg/Desktop/pdf_parsing/data/pages/out_18.png",
+    "data": {
+      "image": "/data/out_18.png?d=%2Fhome%2Fjakobg%2FDesktop%2Fpdf_parsing%2Fdata%2Fpages"
+    }
+  },
+  "10": {
+    "id": 10,
+    "task_path": "/home/jakobg/Desktop/pdf_parsing/data/pages/out_17.png",
+    "data": {
+      "image": "/data/out_17.png?d=%2Fhome%2Fjakobg%2FDesktop%2Fpdf_parsing%2Fdata%2Fpages"
+    }
+  },
+  "11": {
+    "id": 11,
+    "task_path": "/home/jakobg/Desktop/pdf_parsing/data/pages/out_28.png",
+    "data": {
+      "image": "/data/out_28.png?d=%2Fhome%2Fjakobg%2FDesktop%2Fpdf_parsing%2Fdata%2Fpages"
+    }
+  },
+  "12": {
+    "id": 12,
+    "task_path": "/home/jakobg/Desktop/pdf_parsing/data/pages/out_14.png",
+    "data": {
+      "image": "/data/out_14.png?d=%2Fhome%2Fjakobg%2FDesktop%2Fpdf_parsing%2Fdata%2Fpages"
+    }
+  },
+  "13": {
+    "id": 13,
+    "task_path": "/home/jakobg/Desktop/pdf_parsing/data/pages/out_15.png",
+    "data": {
+      "image": "/data/out_15.png?d=%2Fhome%2Fjakobg%2FDesktop%2Fpdf_parsing%2Fdata%2Fpages"
+    }
+  },
+  "14": {
+    "id": 14,
+    "task_path": "/home/jakobg/Desktop/pdf_parsing/data/pages/out_25.png",
+    "data": {
+      "image": "/data/out_25.png?d=%2Fhome%2Fjakobg%2FDesktop%2Fpdf_parsing%2Fdata%2Fpages"
+    }
+  },
+  "15": {
+    "id": 15,
+    "task_path": "/home/jakobg/Desktop/pdf_parsing/data/pages/out_9.png",
+    "data": {
+      "image": "/data/out_9.png?d=%2Fhome%2Fjakobg%2FDesktop%2Fpdf_parsing%2Fdata%2Fpages"
+    }
+  },
+  "16": {
+    "id": 16,
+    "task_path": "/home/jakobg/Desktop/pdf_parsing/data/pages/out_24.png",
+    "data": {
+      "image": "/data/out_24.png?d=%2Fhome%2Fjakobg%2FDesktop%2Fpdf_parsing%2Fdata%2Fpages"
+    }
+  },
+  "17": {
+    "id": 17,
+    "task_path": "/home/jakobg/Desktop/pdf_parsing/data/pages/out_23.png",
+    "data": {
+      "image": "/data/out_23.png?d=%2Fhome%2Fjakobg%2FDesktop%2Fpdf_parsing%2Fdata%2Fpages"
+    }
+  },
+  "18": {
+    "id": 18,
+    "task_path": "/home/jakobg/Desktop/pdf_parsing/data/pages/out_4.png",
+    "data": {
+      "image": "/data/out_4.png?d=%2Fhome%2Fjakobg%2FDesktop%2Fpdf_parsing%2Fdata%2Fpages"
+    }
+  },
+  "19": {
+    "id": 19,
+    "task_path": "/home/jakobg/Desktop/pdf_parsing/data/pages/out_46.png",
+    "data": {
+      "image": "/data/out_46.png?d=%2Fhome%2Fjakobg%2FDesktop%2Fpdf_parsing%2Fdata%2Fpages"
+    }
+  },
+  "20": {
+    "id": 20,
+    "task_path": "/home/jakobg/Desktop/pdf_parsing/data/pages/out_31.png",
+    "data": {
+      "image": "/data/out_31.png?d=%2Fhome%2Fjakobg%2FDesktop%2Fpdf_parsing%2Fdata%2Fpages"
+    }
+  },
+  "21": {
+    "id": 21,
+    "task_path": "/home/jakobg/Desktop/pdf_parsing/data/pages/out_42.png",
+    "data": {
+      "image": "/data/out_42.png?d=%2Fhome%2Fjakobg%2FDesktop%2Fpdf_parsing%2Fdata%2Fpages"
+    }
+  },
+  "22": {
+    "id": 22,
+    "task_path": "/home/jakobg/Desktop/pdf_parsing/data/pages/out_6.png",
+    "data": {
+      "image": "/data/out_6.png?d=%2Fhome%2Fjakobg%2FDesktop%2Fpdf_parsing%2Fdata%2Fpages"
+    }
+  },
+  "23": {
+    "id": 23,
+    "task_path": "/home/jakobg/Desktop/pdf_parsing/data/pages/out_0.png",
+    "data": {
+      "image": "/data/out_0.png?d=%2Fhome%2Fjakobg%2FDesktop%2Fpdf_parsing%2Fdata%2Fpages"
+    }
+  },
+  "24": {
+    "id": 24,
+    "task_path": "/home/jakobg/Desktop/pdf_parsing/data/pages/out_43.png",
+    "data": {
+      "image": "/data/out_43.png?d=%2Fhome%2Fjakobg%2FDesktop%2Fpdf_parsing%2Fdata%2Fpages"
+    }
+  },
+  "25": {
+    "id": 25,
+    "task_path": "/home/jakobg/Desktop/pdf_parsing/data/pages/out_49.png",
+    "data": {
+      "image": "/data/out_49.png?d=%2Fhome%2Fjakobg%2FDesktop%2Fpdf_parsing%2Fdata%2Fpages"
+    }
+  },
+  "26": {
+    "id": 26,
+    "task_path": "/home/jakobg/Desktop/pdf_parsing/data/pages/out_30.png",
+    "data": {
+      "image": "/data/out_30.png?d=%2Fhome%2Fjakobg%2FDesktop%2Fpdf_parsing%2Fdata%2Fpages"
+    }
+  },
+  "27": {
+    "id": 27,
+    "task_path": "/home/jakobg/Desktop/pdf_parsing/data/pages/out_38.png",
+    "data": {
+      "image": "/data/out_38.png?d=%2Fhome%2Fjakobg%2FDesktop%2Fpdf_parsing%2Fdata%2Fpages"
+    }
+  },
+  "28": {
+    "id": 28,
+    "task_path": "/home/jakobg/Desktop/pdf_parsing/data/pages/out_34.png",
+    "data": {
+      "image": "/data/out_34.png?d=%2Fhome%2Fjakobg%2FDesktop%2Fpdf_parsing%2Fdata%2Fpages"
+    }
+  },
+  "29": {
+    "id": 29,
+    "task_path": "/home/jakobg/Desktop/pdf_parsing/data/pages/out_33.png",
+    "data": {
+      "image": "/data/out_33.png?d=%2Fhome%2Fjakobg%2FDesktop%2Fpdf_parsing%2Fdata%2Fpages"
+    }
+  },
+  "30": {
+    "id": 30,
+    "task_path": "/home/jakobg/Desktop/pdf_parsing/data/pages/out_40.png",
+    "data": {
+      "image": "/data/out_40.png?d=%2Fhome%2Fjakobg%2FDesktop%2Fpdf_parsing%2Fdata%2Fpages"
+    }
+  },
+  "31": {
+    "id": 31,
+    "task_path": "/home/jakobg/Desktop/pdf_parsing/data/pages/out_36.png",
+    "data": {
+      "image": "/data/out_36.png?d=%2Fhome%2Fjakobg%2FDesktop%2Fpdf_parsing%2Fdata%2Fpages"
+    }
+  },
+  "32": {
+    "id": 32,
+    "task_path": "/home/jakobg/Desktop/pdf_parsing/data/pages/out_35.png",
+    "data": {
+      "image": "/data/out_35.png?d=%2Fhome%2Fjakobg%2FDesktop%2Fpdf_parsing%2Fdata%2Fpages"
+    }
+  },
+  "33": {
+    "id": 33,
+    "task_path": "/home/jakobg/Desktop/pdf_parsing/data/pages/out_45.png",
+    "data": {
+      "image": "/data/out_45.png?d=%2Fhome%2Fjakobg%2FDesktop%2Fpdf_parsing%2Fdata%2Fpages"
+    }
+  },
+  "34": {
+    "id": 34,
+    "task_path": "/home/jakobg/Desktop/pdf_parsing/data/pages/out_22.png",
+    "data": {
+      "image": "/data/out_22.png?d=%2Fhome%2Fjakobg%2FDesktop%2Fpdf_parsing%2Fdata%2Fpages"
+    }
+  },
+  "35": {
+    "id": 35,
+    "task_path": "/home/jakobg/Desktop/pdf_parsing/data/pages/out_2.png",
+    "data": {
+      "image": "/data/out_2.png?d=%2Fhome%2Fjakobg%2FDesktop%2Fpdf_parsing%2Fdata%2Fpages"
+    }
+  },
+  "36": {
+    "id": 36,
+    "task_path": "/home/jakobg/Desktop/pdf_parsing/data/pages/out_10.png",
+    "data": {
+      "image": "/data/out_10.png?d=%2Fhome%2Fjakobg%2FDesktop%2Fpdf_parsing%2Fdata%2Fpages"
+    }
+  },
+  "37": {
+    "id": 37,
+    "task_path": "/home/jakobg/Desktop/pdf_parsing/data/pages/out_7.png",
+    "data": {
+      "image": "/data/out_7.png?d=%2Fhome%2Fjakobg%2FDesktop%2Fpdf_parsing%2Fdata%2Fpages"
+    }
+  },
+  "38": {
+    "id": 38,
+    "task_path": "/home/jakobg/Desktop/pdf_parsing/data/pages/out_47.png",
+    "data": {
+      "image": "/data/out_47.png?d=%2Fhome%2Fjakobg%2FDesktop%2Fpdf_parsing%2Fdata%2Fpages"
+    }
+  },
+  "39": {
+    "id": 39,
+    "task_path": "/home/jakobg/Desktop/pdf_parsing/data/pages/out_44.png",
+    "data": {
+      "image": "/data/out_44.png?d=%2Fhome%2Fjakobg%2FDesktop%2Fpdf_parsing%2Fdata%2Fpages"
+    }
+  },
+  "40": {
+    "id": 40,
+    "task_path": "/home/jakobg/Desktop/pdf_parsing/data/pages/out_32.png",
+    "data": {
+      "image": "/data/out_32.png?d=%2Fhome%2Fjakobg%2FDesktop%2Fpdf_parsing%2Fdata%2Fpages"
+    }
+  },
+  "41": {
+    "id": 41,
+    "task_path": "/home/jakobg/Desktop/pdf_parsing/data/pages/out_1.png",
+    "data": {
+      "image": "/data/out_1.png?d=%2Fhome%2Fjakobg%2FDesktop%2Fpdf_parsing%2Fdata%2Fpages"
+    }
+  },
+  "42": {
+    "id": 42,
+    "task_path": "/home/jakobg/Desktop/pdf_parsing/data/pages/out_19.png",
+    "data": {
+      "image": "/data/out_19.png?d=%2Fhome%2Fjakobg%2FDesktop%2Fpdf_parsing%2Fdata%2Fpages"
+    }
+  },
+  "43": {
+    "id": 43,
+    "task_path": "/home/jakobg/Desktop/pdf_parsing/data/pages/out_41.png",
+    "data": {
+      "image": "/data/out_41.png?d=%2Fhome%2Fjakobg%2FDesktop%2Fpdf_parsing%2Fdata%2Fpages"
+    }
+  },
+  "44": {
+    "id": 44,
+    "task_path": "/home/jakobg/Desktop/pdf_parsing/data/pages/out_8.png",
+    "data": {
+      "image": "/data/out_8.png?d=%2Fhome%2Fjakobg%2FDesktop%2Fpdf_parsing%2Fdata%2Fpages"
+    }
+  },
+  "45": {
+    "id": 45,
+    "task_path": "/home/jakobg/Desktop/pdf_parsing/data/pages/out_13.png",
+    "data": {
+      "image": "/data/out_13.png?d=%2Fhome%2Fjakobg%2FDesktop%2Fpdf_parsing%2Fdata%2Fpages"
+    }
+  },
+  "46": {
+    "id": 46,
+    "task_path": "/home/jakobg/Desktop/pdf_parsing/data/pages/out_37.png",
+    "data": {
+      "image": "/data/out_37.png?d=%2Fhome%2Fjakobg%2FDesktop%2Fpdf_parsing%2Fdata%2Fpages"
+    }
+  },
+  "47": {
+    "id": 47,
+    "task_path": "/home/jakobg/Desktop/pdf_parsing/data/pages/out_29.png",
+    "data": {
+      "image": "/data/out_29.png?d=%2Fhome%2Fjakobg%2FDesktop%2Fpdf_parsing%2Fdata%2Fpages"
+    }
+  },
+  "48": {
+    "id": 48,
+    "task_path": "/home/jakobg/Desktop/pdf_parsing/data/pages/out_16.png",
+    "data": {
+      "image": "/data/out_16.png?d=%2Fhome%2Fjakobg%2FDesktop%2Fpdf_parsing%2Fdata%2Fpages"
+    }
+  },
+  "49": {
+    "id": 49,
+    "task_path": "/home/jakobg/Desktop/pdf_parsing/data/pages/out_21.png",
+    "data": {
+      "image": "/data/out_21.png?d=%2Fhome%2Fjakobg%2FDesktop%2Fpdf_parsing%2Fdata%2Fpages"
+    }
+  },
+  "50": {
+    "id": 50,
+    "task_path": "/home/jakobg/Desktop/pdf_parsing/data/pages/out_26.png",
+    "data": {
+      "image": "/data/out_26.png?d=%2Fhome%2Fjakobg%2FDesktop%2Fpdf_parsing%2Fdata%2Fpages"
+    }
+  },
+  "51": {
+    "id": 51,
+    "task_path": "/home/jakobg/Desktop/pdf_parsing/data/pages/out_39.png",
+    "data": {
+      "image": "/data/out_39.png?d=%2Fhome%2Fjakobg%2FDesktop%2Fpdf_parsing%2Fdata%2Fpages"
+    }
+  }
+}

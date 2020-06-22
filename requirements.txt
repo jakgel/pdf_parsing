@@ -1,1 +1,6 @@
 camelot-py
+opencv-python
+matplotlib
+label-studio
+pdf2image
+pdfminer

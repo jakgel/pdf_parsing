@@ -1,0 +1,92 @@
+{
+  "completions": [
+    {
+      "created_at": 1592846026,
+      "id": 9001,
+      "lead_time": 53.648,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "duzFc1_7fZ",
+          "original_height": 1053,
+          "original_width": 745,
+          "source": "$image",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "value": {
+            "height": 3.798670465337132,
+            "rectanglelabels": [
+              "Header"
+            ],
+            "rotation": 0,
+            "width": 69.93288590604027,
+            "x": 17.315436241610737,
+            "y": 4.653371320037987
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "GHK7rO6hkK",
+          "original_height": 1053,
+          "original_width": 745,
+          "source": "$image",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "value": {
+            "height": 36.18233618233618,
+            "rectanglelabels": [
+              "ColTypeA"
+            ],
+            "rotation": 0,
+            "width": 70.73825503355705,
+            "x": 16.778523489932887,
+            "y": 9.116809116809117
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "UYdrdlNE5U",
+          "original_height": 1053,
+          "original_width": 745,
+          "source": "$image",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "value": {
+            "height": 22.41215574548908,
+            "rectanglelabels": [
+              "ColTypeB"
+            ],
+            "rotation": 0,
+            "width": 71.14093959731544,
+            "x": 16.778523489932887,
+            "y": 47.00854700854701
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "8IZB93nwOS",
+          "original_height": 1053,
+          "original_width": 745,
+          "source": "$image",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "value": {
+            "height": 20.797720797720796,
+            "rectanglelabels": [
+              "ColTypeC"
+            ],
+            "rotation": 0,
+            "width": 71.14093959731544,
+            "x": 16.778523489932887,
+            "y": 71.22507122507122
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "image": "/data/out_17.png?d=%2Fhome%2Fjakobg%2FDesktop%2Fpdf_parsing%2Fdata%2Fpages"
+  },
+  "id": 9,
+  "task_path": "/home/jakobg/Desktop/pdf_parsing/data/pages/out_17.png"
+}

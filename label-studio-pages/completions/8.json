@@ -1,0 +1,111 @@
+{
+  "completions": [
+    {
+      "created_at": 1592846071,
+      "id": 8001,
+      "lead_time": 32.718,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "Ye_pT4K50U",
+          "original_height": 1053,
+          "original_width": 745,
+          "source": "$image",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "value": {
+            "height": 2.943969610636277,
+            "rectanglelabels": [
+              "Header"
+            ],
+            "rotation": 0,
+            "width": 68.59060402684564,
+            "x": 13.154362416107382,
+            "y": 5.223171889838556
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "cPVorUV8wG",
+          "original_height": 1053,
+          "original_width": 745,
+          "source": "$image",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "value": {
+            "height": 31.90883190883191,
+            "rectanglelabels": [
+              "ColTypeA"
+            ],
+            "rotation": 0,
+            "width": 70.20134228187919,
+            "x": 12.885906040268456,
+            "y": 9.49667616334283
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "UP-Y93ONYM",
+          "original_height": 1053,
+          "original_width": 745,
+          "source": "$image",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "value": {
+            "height": 32.098765432098766,
+            "rectanglelabels": [
+              "ColTypeB"
+            ],
+            "rotation": 0,
+            "width": 71.94630872483222,
+            "x": 11.812080536912752,
+            "y": 42.92497625830959
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "VW9KZQDmxE",
+          "original_height": 1053,
+          "original_width": 745,
+          "source": "$image",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "value": {
+            "height": 17.44877099462535,
+            "rectanglelabels": [
+              "ColTypeC"
+            ],
+            "rotation": 0,
+            "width": 72.08053691275168,
+            "x": 11.946308724832214,
+            "y": 75.42566184116036
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "TrBq07KSFX",
+          "original_height": 1053,
+          "original_width": 745,
+          "source": "$image",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "value": {
+            "height": 5.413105413105413,
+            "rectanglelabels": [
+              "Important"
+            ],
+            "rotation": 0,
+            "width": 52.00138318609924,
+            "x": 30.05188220623729,
+            "y": 81.57644824311491
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "image": "/data/out_18.png?d=%2Fhome%2Fjakobg%2FDesktop%2Fpdf_parsing%2Fdata%2Fpages"
+  },
+  "id": 8,
+  "task_path": "/home/jakobg/Desktop/pdf_parsing/data/pages/out_18.png"
+}

@@ -1,0 +1,28 @@
+{
+  "title": "Label Studio",
+  "host": "0.0.0.0",
+  "port": 8080,
+  "debug": false,
+  "label_config": "config.xml",
+  "input_path": "tasks.json",
+  "output_dir": "completions",
+  "instruction": "Type some <b>hypertext</b> for label experts!",
+  "allow_delete_completions": true,
+  "templates_dir": "examples",
+  "editor": {
+    "debug": false
+  },
+  "sampling": "sequential",
+  "ml_backends": [],
+  "source": {
+    "name": "Tasks",
+    "type": "tasks-json",
+    "path": "/home/jakobg/Desktop/pdf_parsing/label-studio-pages/tasks.json"
+  },
+  "target": {
+    "name": "Completions",
+    "type": "completions-dir",
+    "path": "/home/jakobg/Desktop/pdf_parsing/label-studio-pages/completions"
+  },
+  "allow_serving_local_files": true
+}
